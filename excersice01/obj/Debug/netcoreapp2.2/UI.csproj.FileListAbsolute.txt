@@ -1,0 +1,28 @@
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.deps.json
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.runtimeconfig.json
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.runtimeconfig.dev.json
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.dll
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csprojAssemblyReference.cache
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csproj.CoreCompileInputs.cache
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.AssemblyInfoInputs.cache
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.AssemblyInfo.cs
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.pdb
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\Dal.dll
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\Dal.pdb
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csproj.CopyComplete
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.dll
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.pdb
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.deps.json
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.runtimeconfig.json
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.runtimeconfig.dev.json
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.dll
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\UI.pdb
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\Dal.dll
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\bin\Debug\netcoreapp2.2\Dal.pdb
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csprojAssemblyReference.cache
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csproj.CoreCompileInputs.cache
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.AssemblyInfoInputs.cache
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.AssemblyInfo.cs
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.csproj.CopyComplete
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.dll
+E:\Projects\ProjectC#\excersice01\excersice01\excersice01\obj\Debug\netcoreapp2.2\UI.pdb

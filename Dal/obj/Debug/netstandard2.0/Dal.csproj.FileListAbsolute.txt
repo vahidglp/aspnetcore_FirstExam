@@ -1,0 +1,17 @@
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.dll
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.pdb
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.dll
+D:\Projects\Excersice Asp.Net Core\Excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.pdb
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.dll
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\bin\Debug\netstandard2.0\Dal.pdb
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.csprojAssemblyReference.cache
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.dll
+E:\Projects\ProjectC#\excersice01\excersice01\Dal\obj\Debug\netstandard2.0\Dal.pdb
